@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+numpy
+torch
+torchvision
+Pillow
+nltk
+scikit-learn
+pandas
+openfoodfacts-python
