@@ -49,7 +49,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 This project was developed as part of the Summer MCREU program at Penn State University. We would like to thank the mentors and advisors for their guidance and support throughout the project.
 
-Special thanks to the developers and contributors of the open-source libraries and frameworks used in this project.
 
 <!-- 
 Notes for me, to add later on.
